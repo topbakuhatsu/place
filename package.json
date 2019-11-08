@@ -81,6 +81,6 @@
     "raven": "^2.1.0",
     "speakeasy": "^2.0.0",
     "stream-file-archive": "^1.1.3",
-    "express-uws": "^4.0.2"
+    "uws": "github:uNetworking/uWebSockets.js#v16.1.0"
   }
 }
